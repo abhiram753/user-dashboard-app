@@ -1,0 +1,32 @@
+{
+  "name": "user-management-backend",
+  "version": "1.0.0",
+  "description": "User Management API Backend",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "dev": "nodemon app.js",
+    "test": "jest"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "cors": "^2.8.5",
+    "sqlite3": "^5.1.6",
+    "joi": "^17.9.2",
+    "morgan": "^1.10.0",
+    "helmet": "^7.0.0",
+    "dotenv": "^16.3.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.1",
+    "jest": "^29.6.2"
+  },
+  "keywords": [
+    "express",
+    "api",
+    "sqlite",
+    "user-management"
+  ],
+  "author": "Your Name",
+  "license": "MIT"
+}
