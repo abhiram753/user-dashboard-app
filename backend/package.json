@@ -4,6 +4,7 @@
   "description": "User Management API Backend",
   "main": "app.js",
   "scripts": {
+    "postinstall": "npm rebuild sqlite3",
     "start": "node app.js",
     "dev": "nodemon app.js",
     "test": "jest"
