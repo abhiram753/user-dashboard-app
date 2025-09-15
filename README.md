@@ -165,3 +165,11 @@ This app demonstrates clean code architecture, responsive UI with Bootstrap, com
 
 This project is licensed under the MIT License.
 
+## Working Screen shots
+<img width="1347" height="736" alt="Screenshot 2025-09-15 at 12 48 20 PM" src="https://github.com/user-attachments/assets/05f8f069-c26c-46d4-a209-14515b107400" />
+
+<img width="1440" height="900" alt="Screenshot 2025-09-15 at 12 50 32 PM" src="https://github.com/user-attachments/assets/440082c7-b278-477e-bd68-abcc476cf5fb" />
+
+<img width="1440" height="900" alt="Screenshot 2025-09-15 at 12 50 12 PM" src="https://github.com/user-attachments/assets/21d731f6-314f-4015-beff-90c37c11d6c3" />
+
+
